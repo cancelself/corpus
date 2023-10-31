@@ -1,0 +1,190 @@
+{
+  "ms": {
+    "type": "root",
+    "name": "Mahāsaṅgīti Tipiṭaka Buddhavasse 2500"
+  },
+  "sujato": {
+    "type": "translator",
+    "name": "Bhikkhu Sujato"
+  },
+  "brahmali": {
+    "type": "translator",
+    "name": "Bhikkhu Brahmali"
+  },
+  "sabbamitta": {
+    "type": "translator",
+    "name": "Sabbamitta"
+  },
+  "kaz": {
+    "type": "translator",
+    "name": "Kaz Takehara"
+  },
+  "gnlaera": {
+    "type": "translator",
+    "name": "Gabriel Laera"
+  },
+  "patton": {
+    "type": "translator",
+    "name": "Charles Patton"
+  },
+  "ashinsarana": {
+    "type": "translator",
+    "name": "Ashin Sarana"
+  },
+  "nyeinchanaye": {
+    "type": "translator",
+    "name": "Nyein Chan Aye"
+  },
+  "dpcv": {
+    "type": "root",
+    "name": "Dutiya-Parakkamabāhu Cullavagga"
+  },
+  "bj": {
+    "type": "root",
+    "name": "Buddha Jayanti Tipiṭaka"
+  },
+  "vri": {
+    "type": "root",
+    "name": "Vipassana Research Institute"
+  },
+  "my-team": {
+    "type": "translator",
+    "name": "Myanmar Translation Team"
+  },
+  "carmi": {
+    "type": "translator",
+    "name": "Carmi Cronje"
+  },
+  "vimalanyani": {
+    "type": "translator",
+    "name": "Bhikkhunī Vimalañāṇī"
+  },
+  "madhu": {
+    "type": "translator",
+    "name": "Madhuwanthi Buddhadasa"
+  },
+  "vitor": {
+    "type": "translator",
+    "name": "Vitor Guimarães"
+  },
+  "seniya": {
+    "type": "translator",
+    "name": "Seniya Ariyakumara"
+  },
+  "soma": {
+    "type": "translator",
+    "name": "Ayya Soma"
+  },
+  "wynne": {
+    "type": "translator",
+    "name": "Alexander Wynne"
+  },
+  "phantuananh": {
+    "type": "translator",
+    "name": "Bhikkhu Thích Minh Châu"
+  },
+  "kovilo": {
+    "type": "translator",
+    "name": "Kovilo Bhikkhu"
+  },
+  "suvira": {
+    "type": "translator",
+    "name": "Bhikkhuni Suvira"
+  },
+  "sumano": {
+    "type": "translator",
+    "name": "Bhante Sumano"
+  },
+  "mudito": {
+    "type": "translator",
+    "name": "Ajahn Mudito"
+  },
+  "hardao": {
+    "type": "translator",
+    "name": "Piotr Jagodziński"
+  },
+  "suddhaso": {
+    "type": "translator",
+    "name": "Bhante Suddhāso"
+  },
+  "giovannizappa": {
+    "type": "translator",
+    "name": "Giovanni Zappa"
+  },
+  "piyadassi": {
+    "type": "translator",
+    "name": "Sayalay Piyadassi"
+  },
+  "trush": {
+    "type": "translator",
+    "name": "Trushant Majmudar"
+  },
+  "bernatfontclos": {
+    "type": "translator",
+    "name": "Bernat Font-Clos"
+  },
+  "brankokovacevic": {
+    "type": "translator",
+    "name": "Branislav Kovačević"
+  },
+  "noeismet": {
+    "type": "translator",
+    "name": "Noé Ismet"
+  },
+  "laera": {
+    "type": "translator",
+    "name": "Laera et al."
+  },
+  "cittadhammo": {
+    "type": "translator",
+    "name": "Cittadhammo Bhikkhu"
+  },
+  "korakot": {
+    "type": "translator",
+    "name": "Korakot Chaovavanich"
+  },
+  "sekha": {
+    "type": "translator",
+    "name": "Bhikkhu Sekha"
+  },
+  "davis": {
+    "type": "translator",
+    "name": "Dr Joongpyo Lee"
+  },
+  "pasanna": {
+    "type": "translator",
+    "name": "Venerable Pasanna"
+  },
+  "marcinow": {
+    "type": "translator",
+    "name": "Piotr Marcinów"
+  },
+  "sv": {
+    "type": "translator",
+    "name": "SV theravada.ru"
+  },
+  "anandajoti": {
+    "type": "translator",
+    "name": "Bhikkhu Ānandajoti"
+  },
+  "maggatr": {
+    "type": "translator",
+    "name": "Magga Traducciones"
+  },
+  "kelly": {
+    "type": "translator",
+    "name": "John Kelly"
+  },
+  "buddhadassa": {
+    "type": "translator",
+    "name": "Ryan John Guilfoyle"
+  },
+  "quaresma": {
+    "type": "translator",
+    "name": "Marco Quaresma"
+  },
+  "lucjan": {
+    "type": "translator",
+    "name": "Paweł Łucjan"
+  }
+}

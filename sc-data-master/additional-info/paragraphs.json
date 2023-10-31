@@ -1,0 +1,642 @@
+[
+  {
+	"uid": "cscd",
+    "acronym": "CSCD",
+    "description": "Paragraph numbers in Chaṭṭha Saṅgāyana CD (tipitaka.org), Vipassana Research Institute, 2008"
+  },
+  {
+    "uid": "acip-vp",
+    "acronym": "Acip-vp",
+    "description": "Asian Classics Input Project."
+  },
+  {
+    "uid": "adh-v",
+    "acronym": "Adhik-v",
+    "description": "Paragraph numbers in Adhikaraṇavastu, Gnoli 1978."
+  },
+  {
+    "uid": "ah",
+    "acronym": "Hiri-bh",
+    "description": "Paragraph numbers by Ajahn Hiriko."
+  },
+  {
+    "uid": "apz",
+    "acronym": "APZ",
+    "description": "Paragraph numbers in A.P. de Zoysa."
+  },
+  {
+    "uid": "as-sec",
+    "acronym": "AS",
+    "description": "Section numbers in Yamada."
+  },
+  {
+    "uid": "ba",
+    "acronym": "BA",
+    "description": "Paragraph numbers in The Book of Analysis, Thittila 1969."
+  },
+  {
+    "uid": "dd",
+    "acronym": "Dhdas-bh",
+    "description": "Paragraph numbers by Brother Dhammadaso."
+  },
+  {
+    "uid": "beal",
+    "acronym": "Beal",
+    "description": "Paragraph numbers by Samuel Beal."
+  },
+  {
+    "uid": "bhaisv",
+    "acronym": "Bhais-v",
+    "description": "Paragraph numbers in Bhaiṣajyavastu, J. Chung und K. Wille."
+  },
+  {
+    "uid": "inda-bh",
+    "acronym": "Inda-bh",
+    "description": "Paragraph numbers in Bhikkhu Indacanda."
+  },
+  {
+    "uid": "bjt",
+    "acronym": "BJT",
+    "description": "Buddha Jayanthi Tipitaka."
+  },
+  {
+    "uid": "karu-bh",
+    "acronym": "Karu-bh",
+    "description": "Paragraph numbers by Karunabangsha Bhikkhu."
+  },
+  {
+    "uid": "bl",
+    "acronym": "",
+    "description": "(Not defined in GRETIL source.)."
+  },
+  {
+    "uid": "mett-bh",
+    "acronym": "Mett-bh",
+    "description": "Paragraph numbers in Bhikkhu Mettiko."
+  },
+  {
+    "uid": "bps",
+    "acronym": "BPS",
+    "description": "Buddhist Publication Society."
+  },
+  {
+    "uid": "santa-bh",
+    "acronym": "Santa-bh",
+    "description": "Verse numbers by Bhikkhu Santagavesaka."
+  },
+  {
+    "uid": "vacana",
+    "acronym": "Vacana",
+    "description": "Sutta numbers in buddha-vacana.org."
+  },
+  {
+    "uid": "yun-bh",
+    "acronym": "Yun-bh",
+    "description": "Verse numbers by Bhikkhuni Yun’an."
+  },
+  {
+    "uid": "cps",
+    "acronym": "Cps",
+    "description": "Paragraph numbers in Catuṣpariṣatsūtra, E. Waldschmidt, 1952-62."
+  },
+  {
+    "uid": "d-vp",
+    "acronym": "Derge vp",
+    "description": "Vol/page of the Derge edition."
+  },
+  {
+    "uid": "d-vpl",
+    "acronym": "Derge line",
+    "description": "Line number in Derge edition."
+  },
+  {
+    "uid": "divy",
+    "acronym": "Divy",
+    "description": "Paragraph numbers in Divyāvadāna, ed. E.B. Cowell, R.A. Neil, Cambridge 1886."
+  },
+  {
+    "uid": "dkd",
+    "acronym": "DkD",
+    "description": "Folio and line numbers in Dharmaskandha, Dietz, 1984."
+  },
+  {
+    "uid": "dkm",
+    "acronym": "DkM",
+    "description": "Folio and line numbers in Dharmaskandha, Matsuda, 1986."
+  },
+  {
+    "uid": "eno89",
+    "acronym": "Eno:89",
+    "description": "Paragraph numbers in Enomoto, 1989."
+  },
+  {
+    "uid": "eks",
+    "acronym": "EkS",
+    "description": "Paragraph numbers in Ekkehard Saß."
+  },
+  {
+    "uid": "falk",
+    "acronym": "Falk",
+    "description": "Verse numbers in Falk 2015."
+  },
+  {
+    "uid": "flw",
+    "acronym": "FLW",
+    "description": "Paragraph numbers in Frank Lee Woodward."
+  },
+  {
+    "uid": "fol",
+    "acronym": "Folio",
+    "description": "Folio number in the manuscript."
+  },
+  {
+    "uid": "fuk",
+    "acronym": "Fuk",
+    "description": "Page numbers in Fukita, 2003."
+  },
+  {
+    "uid": "gbm",
+    "acronym": "GBM",
+    "description": "Section numbers in Gilgit Buddhist Manscripts."
+  },
+  {
+    "uid": "guo-l",
+    "acronym": "Guo-l",
+    "description": "Verse numbers by Guo Liangjun."
+  },
+  {
+    "uid": "spar",
+    "acronym": "Spar",
+    "description": "Paragraph numbers by Gareth Sparham."
+  },
+  {
+    "uid": "hart",
+    "acronym": "Hart",
+    "description": "Paragraph number in Hartmann, 2004."
+  },
+  {
+    "uid": "heck",
+    "acronym": "Heck",
+    "description": "Paragraph numbers in Hellmuth Hecker."
+  },
+  {
+    "uid": "naka",
+    "acronym": "Naka",
+    "description": "Verse numbers in Hideaki Nakatani."
+  },
+  {
+    "uid": "hoe",
+    "acronym": "Hoernle",
+    "description": "Verse numbers in Hoernle, 1916."
+  },
+  {
+    "uid": "hos",
+    "acronym": "Hosoda",
+    "description": "Paragraph numbers in Hosoda."
+  },
+  {
+    "uid": "hs",
+    "acronym": "HS",
+    "description": "(Not defined in GRETIL source.)."
+  },
+  {
+    "uid": "anggara",
+    "acronym": "Anggara",
+    "description": "Paragraph numbers in Indra Anggara."
+  },
+  {
+    "uid": "jb",
+    "acronym": "Brough",
+    "description": "Verse numbers in Gāndhārī Dharmapada, John Brough, London 1962."
+  },
+  {
+    "uid": "jd",
+    "acronym": "Dutoit",
+    "description": "Paragraph numbers in Dr. Julius Dutoit."
+  },
+  {
+    "uid": "jsk",
+    "acronym": "JSK",
+    "description": "Paragraph numbers in J.S. Krüger."
+  },
+  {
+    "uid": "jw",
+    "acronym": "Walt",
+    "description": "Verse numbers in Jonathan S. Walters."
+  },
+  {
+    "uid": "kat",
+    "acronym": "Kaṭhina-v",
+    "description": "Paragraph numbers in Kaṭhinavastu, Matsumura, 1996."
+  },
+  {
+    "uid": "kel",
+    "acronym": "K-S-Y",
+    "description": "Paragraph numbers in Kelly, Sawyer, and Yareham."
+  },
+  {
+    "uid": "kilde",
+    "acronym": "",
+    "description": "(Some numbers in Derge.)"
+  },
+  {
+    "uid": "kl",
+    "acronym": "Lie",
+    "description": "Paragraph numbers in Kåre A. Lie."
+  },
+  {
+    "uid": "ks",
+    "acronym": "KS",
+    "description": "Paragraph numbers in Karl Seidenstücker."
+  },
+  {
+    "uid": "lh",
+    "acronym": "L-H",
+    "description": "Verse numbers in Lenz 2003, Hinüber 2004."
+  },
+  {
+    "uid": "mat",
+    "acronym": "Mat",
+    "description": "Paragraph numbers in Matsumura."
+  },
+  {
+    "uid": "mahi-bh",
+    "acronym": "Mahi-bh",
+    "description": "Verse numbers by Bhikkhu Mahinda."
+  },
+  {
+    "uid": "cone",
+    "acronym": "Cone",
+    "description": "Verse numbers in Patna Dharmapada, Margaret Cone."
+  },
+  {
+    "uid": "mit",
+    "acronym": "Mit",
+    "description": "Paragraph numbers in Mittal, 1957."
+  },
+  {
+    "uid": "mkv",
+    "acronym": "Mkv",
+    "description": "Page numbers in Mahākarmavibhaṅga."
+  },
+  {
+    "uid": "ms",
+    "acronym": "MS",
+    "description": "Mahāsaṅgīti paragraph numbers."
+  },
+  {
+    "uid": "msdiv",
+    "acronym": "Msdiv",
+    "description": "Mahāsaṅgīti msdiv paragraph numbers."
+  },
+  {
+    "uid": "msvi",
+    "acronym": "MSV:3.1",
+    "description": "Vol/page of Mūlasarvāstivāda Vinaya in Gilgit Buddhist Manscripts, ed. N. Dutt, vol. III, part 1."
+  },
+  {
+    "uid": "msvii",
+    "acronym": "MSV:3.2",
+    "description": "Vol/page of Mūlasarvāstivāda Vinaya in Gilgit Buddhist Manscripts, ed. N. Dutt, vol. III, part 2, Srinagar 1942."
+  },
+  {
+    "uid": "msviii",
+    "acronym": "MSV:3.3",
+    "description": "Vol/page of Mūlasarvāstivāda Vinaya in Gilgit Buddhist Manscripts, ed. N. Dutt, vol. III, part 3, Srinagar 1943."
+  },
+  {
+    "uid": "msviv",
+    "acronym": "MSV:3.4",
+    "description": "Vol/page of Mūlasarvāstivāda Vinaya in Gilgit Buddhist Manscripts, ed. N. Dutt, vol. III, part 4."
+  },
+  {
+    "uid": "msvwi",
+    "acronym": "Wille",
+    "description": "Vol/page in Wille."
+  },
+  {
+    "uid": "m-t",
+    "acronym": "M-T",
+    "description": "Paragraph numbers in Maitrimurti / Trätow."
+  },
+  {
+    "uid": "nt-bh",
+    "acronym": "Nt-bh",
+    "description": "Paragraph numbers in Nyānatiloka Mahāthera."
+  },
+  {
+    "uid": "np-bh",
+    "acronym": "Np-bh",
+    "description": "Paragraph numbers in Nyānaponika Mahāthera."
+  },
+  {
+    "uid": "nst",
+    "acronym": "NST",
+    "description": "Paragraph numbers in Ven. Nilwakke Somananda Thera."
+  },
+  {
+    "uid": "nya",
+    "acronym": "Nya",
+    "description": "Nyanamoli section number."
+  },
+  {
+    "uid": "franke",
+    "acronym": "Franke",
+    "description": "Paragraph numbers in Otto Franke, 1913."
+  },
+  {
+    "uid": "pand-v",
+    "acronym": "Pand-v",
+    "description": "Paragraph numbers in Pāṇḍulohitakavastu Nobuyuki Yamagiwa."
+  },
+  {
+    "uid": "pa",
+    "acronym": "PA",
+    "description": ""
+  },
+  {
+    "uid": "pb",
+    "acronym": "PB",
+    "description": "Paragraph numbers in Bruchstücke des Bhikṣuṇī-Prātimokṣa der Sarvāstivādins."
+  },
+  {
+    "uid": "pl",
+    "acronym": "PL",
+    "description": "Paragraph numbers in Peter van Loosbroek."
+  },
+  {
+    "uid": "pos-v",
+    "acronym": "Pos-v",
+    "description": "Paragraph numbers in Posadhavastu von Hinüber."
+  },
+  {
+    "uid": "pos-v-vp",
+    "acronym": "Pos-v vp",
+    "description": "Page numbers in Posadhavastu von Hinüber."
+  },
+  {
+    "uid": "prava-v",
+    "acronym": "Prava-v",
+    "description": "Paragraph numbers in Pravaranavastu Jin-il Chung."
+  },
+  {
+    "uid": "prava-v-vp",
+    "acronym": "Prava-v-vp",
+    "description": "Page numbers in Pravaranavastu Jin-il Chung."
+  },
+  {
+    "uid": "pravr-v-i",
+    "acronym": "Pravr-v i",
+    "description": "Paragraph numbers in Pravrajyāvastu vol I Vogel/Wille."
+  },
+  {
+    "uid": "pravr-v-ii",
+    "acronym": "Pravr-v ii",
+    "description": "Paragraph numbers in Pravrajyāvastu vol II Vogel/Wille."
+  },
+  {
+    "uid": "pravr-v-iii",
+    "acronym": "Pravr-v iii",
+    "description": "Paragraph numbers in Pravrajyāvastu vol III Vogel/Wille."
+  },
+  {
+    "uid": "pravr-v-iv",
+    "acronym": "Pravr-v iv",
+    "description": "Paragraph numbers in Pravrajyāvastu vol IV Vogel/Wille."
+  },
+  {
+    "uid": "pts",
+    "acronym": "PTS",
+    "description": "Pali Text Society."
+  },
+  {
+    "uid": "pts-cs",
+    "acronym": "PTS",
+    "description": "Section number of Pali Text Society editions."
+  },
+  {
+    "uid": "pts-vp-en",
+    "acronym": "PTS vp En",
+    "description": "Vol/page of the Pali Text Society translation."
+  },
+  {
+    "uid": "pts-vp-pli",
+    "acronym": "PTS vp Pali",
+    "description": "Vol/page of the Pali Text Society Pali edition."
+  },
+  {
+    "uid": "pts1ed",
+    "acronym": "PTS 1st ed.",
+    "description": "Page number of Pali Text Society, 1st edition."
+  },
+  {
+    "uid": "pts2ed",
+    "acronym": "PTS 2nd ed.",
+    "description": "Page number of Pali Text Society, 2nd edition."
+  },
+  {
+    "uid": "roth",
+    "acronym": "Roth",
+    "description": "Paragraph numbers in Roth, 1970."
+  },
+  {
+    "uid": "salo",
+    "acronym": "Salo",
+    "description": "Paragraph numbers by Richard Salomon."
+  },
+  {
+    "uid": "rs-vp",
+    "acronym": "RS vp",
+    "description": "Volume and page numbers in Rahula Sankriytayana translation."
+  },
+  {
+    "uid": "sag",
+    "acronym": "Sag",
+    "description": "Verse numbers in Sarirarthagatha of the Cintamayibhumi."
+  },
+  {
+    "uid": "sand",
+    "acronym": "Sand",
+    "description": "Paragraph numbers in Sander."
+  },
+  {
+    "uid": "say-v",
+    "acronym": "Say-v",
+    "description": "Paragraph numbers in Śayanāsanavastu, Gnoli 1978."
+  },
+  {
+    "uid": "sbh",
+    "acronym": "Śrav-bh",
+    "description": "Page numbers in Śrāvakabhūmi of Asaṅga."
+  },
+  {
+    "uid": "sbvi",
+    "acronym": "Sbv i",
+    "description": "Paragraph numbers in Saṅghabhedavastu, Gnoli / Venkatacharya, 1977-78."
+  },
+  {
+    "uid": "sbvii",
+    "acronym": "Sbv ii",
+    "description": "Paragraph numbers in Saṅghabhedavastu, Gnoli / Venkatacharya, 1977-78."
+  },
+  {
+    "uid": "sc",
+    "acronym": "SC",
+    "description": "SuttaCentral fallback paragraph number."
+  },
+  {
+    "uid": "sen",
+    "acronym": "Sen",
+    "description": "Section and paragraph numbers in Senart, 1882."
+  },
+  {
+    "uid": "sht",
+    "acronym": "SHT",
+    "description": "References for SHT fragments."
+  },
+  {
+    "uid": "ss",
+    "acronym": "SS",
+    "description": "Paragraph numbers in Shai Schwartz."
+  },
+  {
+    "uid": "sv",
+    "acronym": "SV",
+    "description": "Paragraph numbers in SV translation,  ."
+  },
+  {
+    "uid": "svsv",
+    "acronym": "SVSV",
+    "description": "Chapter, section, and verse number within the section."
+  },
+  {
+    "uid": "svv",
+    "acronym": "SVV",
+    "description": "Chapter, and verse number within the chapter."
+  },
+  {
+    "uid": "t",
+    "acronym": "T",
+    "description": "Sutra number and page, column, and line in the Taishō canon."
+  },
+  {
+    "uid": "t-linehead",
+    "acronym": "",
+    "description": "Sutra number and page, column, and line in the Taishō canon."
+  },
+  {
+    "uid": "tb",
+    "acronym": "Th-Bh",
+    "description": "Paragraph numbers in Thanissaro Bhikkhu."
+  },
+  {
+    "uid": "th-inline",
+    "acronym": "",
+    "description": ""
+  },
+  {
+    "uid": "thv",
+    "acronym": "THV",
+    "description": "Sutta numbers in Thich Huyen-Vi."
+  },
+  {
+    "uid": "titus",
+    "acronym": "",
+    "description": ""
+  },
+  {
+    "uid": "tri",
+    "acronym": "Tri",
+    "description": "Sūtra and paragraph number in Tripāṭhī."
+  },
+  {
+    "uid": "ttc",
+    "acronym": "TTC",
+    "description": "Paragraph numbers in Thích Thiện Châu."
+  },
+  {
+    "uid": "uv",
+    "acronym": "Uv",
+    "description": "Chapter and verse numbers for the Udānavarga."
+  },
+  {
+    "uid": "uvs",
+    "acronym": "UvS",
+    "description": "Chapter and verse numbers for the Udānavarga de Subaši."
+  },
+  {
+    "uid": "vai",
+    "acronym": "Vai",
+    "description": "Page (and line) numbers in Vaidya."
+  },
+  {
+    "uid": "var-v",
+    "acronym": "Var-v",
+    "description": "Paragraph numbers in Varsavastu Masanori Shono."
+  },
+  {
+    "uid": "vgns",
+    "acronym": "Verse",
+    "description": "SuttaCentral vagga and verse number."
+  },
+  {
+    "uid": "vjw",
+    "acronym": "Verse",
+    "description": "Verse numbers in Jonathan S. Walters."
+  },
+  {
+    "uid": "vi-n",
+    "acronym": "Vi-n",
+    "description": "Vietnamese translation paragraph number."
+  },
+  {
+    "uid": "vnp",
+    "acronym": "PTS verse",
+    "description": "Verse number in the Pali Text Society edition."
+  },
+  {
+    "uid": "vns",
+    "acronym": "SC verse",
+    "description": "SuttaCentral verse number."
+  },
+  {
+    "uid": "vuv",
+    "acronym": "Verse",
+    "description": "Verse numbers in Kg-bKa’gyur, Derge edition."
+  },
+  {
+    "uid": "vvuv",
+    "acronym": "Verse",
+    "description": "Chapter and verse numbers for the Sanskrit Udānavarga."
+  },
+  {
+    "uid": "wal",
+    "acronym": "Wal",
+    "description": "Paragraph numbers for sondertext in Waldschmidt."
+  },
+  {
+    "uid": "wpv",
+    "acronym": "WP verse",
+    "description": "Wisdom Publications verse number."
+  },
+  {
+    "uid": "wr",
+    "acronym": "WR",
+    "description": "Paragraph numbers in Walpola Rahula."
+  },
+  {
+    "uid": "wrh",
+    "acronym": "Rock",
+    "description": "Paragraph numbers in Woodville Rockhill."
+  },
+  {
+    "uid": "wx",
+    "acronym": "W-X",
+    "description": "Verse numbers by Wuxing/Wu Laoze."
+  },
+  {
+    "uid": "yam",
+    "acronym": "Yam",
+    "description": "Paragraph numbers in Yamada."
+  }
+]

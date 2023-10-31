@@ -1,0 +1,52 @@
+[
+  {
+    "uid": "bo",
+    "acronym": "Tib",
+    "name": "Modern Tibetan"
+  },
+  {
+    "uid": "kho",
+    "acronym": "Kho",
+    "name": "Khotanese"
+  },
+  {
+    "uid": "lzh",
+    "acronym": "Lzh",
+    "name": "Literary Chinese"
+  },
+  {
+    "uid": "pgd",
+    "acronym": "Pgd",
+    "name": "Gāndhārī"
+  },
+  {
+    "uid": "pli",
+    "acronym": "Pli",
+    "name": "Pāli"
+  },
+  {
+    "uid": "pra",
+    "acronym": "Pra",
+    "name": "Prākrit"
+  },
+  {
+    "uid": "san",
+    "acronym": "San",
+    "name": "Sanskrit"
+  },
+  {
+    "uid": "uig",
+    "acronym": "Uig",
+    "name": "Uighur"
+  },
+  {
+    "uid": "xct",
+    "acronym": "Xct",
+    "name": "Classical Tibetan"
+  },
+  {
+    "uid": "zh",
+    "acronym": "Zh",
+    "name": "Modern Chinese"
+  }
+]
